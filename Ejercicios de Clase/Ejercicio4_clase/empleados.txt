@@ -1,0 +1,5 @@
+Empleado Nº: 1, Datos: Homero Simpson, 1234, 45, homero@hotmail.com, Gerente de la Planta
+Empleado Nº: 2, Datos: Marge Simpson, 12345, 43, marge@hotmail.com, Policia
+Empleado Nº: 3, Datos: Bart Simpson, 635432, 10, bart@hotmail.com, Estudiante
+Empleado Nº: 4, Datos: Lisa Simpson, 2354235, 8, lisa@hotmail.com, Estudiante
+Empleado Nº: 5, Datos: Maggie Simpson, 43534525, 2, maggie@hotmail.com, Bebe
